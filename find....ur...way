@@ -1,0 +1,49 @@
+#######################################################################
+#                                                                     #
+#                  WELCOME TO THE SQUID GAME CHALLENGE                #
+#                                                                     #
+#######################################################################
+
+
+You've found the recruiter's secret repository. But can you find the true reward?  
+
+> "The game is simple, yet the stakes are high. Only those who see beyond the code will survive."  
+
+Look deeper into the **commits**, the **branches**, or maybe an ignored file?  
+
+🔺⭕⬛  
+
+_The key lies within..._  
+
+
+🎭 **A mysterious recruiter has hidden a secret within this repository.**  
+Only those who can **see beyond the surface** will uncover the truth.  
+
+🔺 **The Invitation Has Been Sent** ⭕  
+You received a **mysterious card** with three shapes. A number was on the back.  
+You called, you accepted the challenge… and now, the game begins.  
+
+💀 **But not everyone will survive.**  
+
+### 🔍 **YOUR MISSION:**  
+1️⃣ **Find the Recruiter’s Identity** – A name is hidden, but where?  
+2️⃣ **Search the Repository for Clues** – Not all files are in plain sight.  
+3️⃣ **Follow the Trail of Commits and Branches** – The past holds secrets.  
+4️⃣ **Locate the Hidden Flag** – Only the worthy will claim it.  
+
+🚀 **WHERE TO START?**  
+📌 **Check the metadata** – Something might be hiding in the **image file**.  
+📌 **Investigate commit history** – (`git log`, `git show <commit-id>`)  
+📌 **Explore different branches** – (`git branch -a`, `git checkout <branch>`)  
+📌 **Look for hidden files** – (`ls -la`, `.gitignore`, or `.gitkeep`)  
+
+### 🔥 **HINTS:**  
+- The recruiter left traces in **previous commits**—but did they erase them all?  
+- Some secrets are **ignored but not forgotten**—check `.gitignore`.  
+- A **deleted message might still exist**—find it.  
+
+🎭 **Only the observant will pass this challenge. Will you?**  
+
+🔺⭕⬛  
+
+💀 _The key lies within… but can you find it before it’s too late?_ 💀  
