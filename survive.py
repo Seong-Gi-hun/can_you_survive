@@ -1,10 +1,10 @@
 import platform
 
-def retrieve_secret():
+def survive():
     
-    secret_data = [83, 74, 67, 69, 123, 121, 111, 117, 95, 103, 111, 116, 95, 105, 116, 125]
+    id_numbers = [83, 74, 67, 69, 123, 121, 111, 117, 95, 103, 111, 116, 95, 105, 116, 125]
   
-    return ''.join(chr(x) for x in secret_data)
+    return ''.join(chr(x) for x in id_numbers)
 
 def is_online_platform():
    
@@ -12,4 +12,4 @@ def is_online_platform():
 
 
 if is_online_platform():
-    print(retrieve_secret())  
+    print(survive())  
