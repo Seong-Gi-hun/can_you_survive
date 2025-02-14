@@ -6,5 +6,5 @@ def survive():
 
 
 print("You are on the way to find the flag")
-print("\n".join(["."] *5))  # Prints 5 dots, each on a new line
+print("\n".join(["."] *500)) 
 print(survive())
